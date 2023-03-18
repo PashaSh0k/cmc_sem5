@@ -1,0 +1,2 @@
+﻿  pch.cpp
+D:\С#\lab3\Dll1\pch.h(2,10): fatal  error C1083: Не удается открыть файл включение: mkl.h: No such file or directory,
